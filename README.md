@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/ukmikos/testapp.svg?branch=master)](https://travis-ci.org/ukmikos/testapp)
+
 Testapp
 ================
 
